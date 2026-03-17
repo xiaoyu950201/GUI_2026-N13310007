@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GUI\\N13310007\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31A7EC7-9076-4461-AB97-EAD04680D851}|N13310007\\N13310007.csproj|c:\\gui\\n13310007\\n13310007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B31A7EC7-9076-4461-AB97-EAD04680D851}|N13310007\\N13310007.csproj|solutionrelative:n13310007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\GUI\\N13310007\\N13310007\\Form1.cs",
+              "RelativeDocumentMoniker": "N13310007\\Form1.cs",
+              "ToolTip": "C:\\GUI\\N13310007\\N13310007\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "N13310007\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:56:19.403Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

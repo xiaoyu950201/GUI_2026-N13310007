@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-[assembly: Guid("0b27ef39-71bc-4a0b-83b1-cfab0374b9a2")]
+[assembly: Guid("b31a7ec7-9076-4461-ab97-ead04680d851")]
 
 // 組件的版本資訊由下列四個值所組成: 
 //
@@ -29,8 +29,5 @@ using System.Runtime.InteropServices;
 //      組建編號
 //      修訂編號
 //
-// 您可以指定所有的值，也可以使用 '*' 將組建和修訂編號
-// 設為預設，如下所示:
-// [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]

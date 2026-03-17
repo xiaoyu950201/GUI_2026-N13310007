@@ -1,0 +1,12 @@
+git clone https://github.com/xiaoyu950201/GUI_2026-N13310007.git
+
+git add .
+
+git config -- global user.email "chl02185202@gmail.com"
+
+git config -- global user,name "xiaoyu950201"
+
+git commit -m "20260310"
+
+git push -u origin main
+
